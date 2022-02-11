@@ -1,0 +1,1 @@
+This is a questions from the 2018 Code Jam competition qualification rounds. They implement a derivative of bubble sort, called trouble sort. It only works sometimes and they are asking you to determine if it will fail and where. https://codingcompetitions.withgoogle.com/codejam/round/00000000000000cb/00000000000079cb
